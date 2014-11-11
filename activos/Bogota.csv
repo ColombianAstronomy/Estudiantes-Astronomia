@@ -1,38 +1,38 @@
-#Apellido, Nivel de Estudio, Universidad, Area,
-Amado-Piñeroz, , , ,
-Amazo-Gomez, Pregrado, UNAL, Física Solar,
-Arrieta, Maestría, OAN, Cosmología, 
-Benavidez-Gallego, Maestría, UNAL,Agujeros Negros ,
-Bolaños (Jonathan), Maestría, OAN, Cosmología,
-Camargo-Camargo, Maestría, UNAL, Galaxias,
-Campos-Rozo, Pregrado, UNAL, Física Solar,
-Cardenas-Avendaño, Maestría, OAN, Agujeros Negros,
-Castellanos-Duran, Maestría, OAN, Física Solar,
-Castellanos-Torres, Maestría, UNAL, Galaxias, 
-Diaz-Castillo, Pregrado, UNAL, Física Solar,
-Diaz de la Barrera (Ray), Pregrado, Uniandes, Instrumentacion,
+#Apellido, Nivel de Estudio, Universidad, Area
+Amado-Piñeroz,0,0,0
+Amazo-Gomez, Pregrado, UNAL, Física Solar
+Arrieta,Maestría, OAN, Cosmología
+Benavidez-Gallego,Maestría, UNAL,Agujeros Negros 
+Bolaños (Jonathan),Maestría, OAN, Cosmología
+Camargo-Camargo,Maestría, UNAL, Galaxias
+Campos-Rozo, Pregrado, UNAL, Física Solar
+Cardenas-Avendaño,Maestría, OAN, Agujeros Negros
+Castellanos-Duran,Maestría, OAN, Física Solar
+Castellanos-Torres,Maestría, UNAL, Galaxias
+Diaz-Castillo, Pregrado, UNAL, Física Solar
+Diaz de la Barrera (Ray), Pregrado, Uniandes, Instrumentacion
 Fajardo-Mendieta, Pregrado, UNAL, Física Solar
-Galarza, Maestr�ía, OAN, Física Solar,
-Garavito-Camargo, Maestría, UniAndes, Galaxias,
-Guevara-Gomez, Pregrado, UNAL, Física Solar,
-Gómez-Cortes, PhD, UniAndes, Galaxias, 
-Gonzalez-Diaz, Maestría, OAN Observacional,
-Hernandez (Nicolás), Pregrado, UniAndes, Obs.,
-Huertas-Hurtado, Maestría, OAN, Física Solar,
-Narvaez-C, Maestría, OAN, Observacional, 
-Orduz (Carlos), Maestría, OAN, Cosmología, 
-Peralta, Maestría, OAN, Cosmología, 
-Pineda (Jonathan), Pregrado, UNAL, Cosmología,
-Poveda-Ruiz, Pregrado, UniAndes, Galaxias,
-Prada (Jesus), Pregrado, UniAndes, Galaxias,
-Quintero-Villamizar,Pregrado, UNAL, AGN, 
-Ramos-Padilla, Pregrado, UNAL, Galaxías,
-Remolina-Gutierrez, Pregrado, UniAndes, Galaxias,
-Rivera (Camilo), Pregrado, Uniandes, Galaxias, 
-Rodriguez-Camargo, Pregrado, UNAL, Agujeros Negros, 
-Romero (Nicolás), Pregrado, UniAndes, Galaxias,
-Ubaque (Yobay), Maestria, Uniandes, Estrellas,
-Umaña (Diego), Pregrado, UniAndes, ,
-Santana-Gomez, Maestría, OAN, Galaxias,
-Velez R (Fernando), Maestría, OAN, Cosmología, 
-Vargas B (Miller), Maestría, OAN, Cosmología, 
+Galarza,Maestría, OAN, Física Solar
+Garavito-Camargo,Maestría, UniAndes, Galaxias
+Guevara-Gomez, Pregrado, UNAL, Física Solar
+Gomez-Cortes, PhD, UniAndes, Galaxias
+Gonzalez-Diaz,Maestría, OAN,Observacional
+Hernandez (Nicolas), Pregrado, UniAndes, Obs.
+Huertas-Hurtado,Maestría, OAN, Física Solar
+Narvaez-C,Maestría, OAN, Observacional
+Orduz (Carlos),Maestría, OAN, Cosmología
+Peralta,Maestría, OAN, Cosmología
+Pineda (Jonathan), Pregrado, UNAL, Cosmología
+Poveda-Ruiz, Pregrado, UniAndes, Galaxias
+Prada (Jesus), Pregrado, UniAndes, Galaxias
+Quintero-Villamizar,Pregrado, UNAL, AGN
+Ramos-Padilla, Pregrado, UNAL, Galaxias
+Remolina-Gutierrez, Pregrado, UniAndes, Galaxias
+Rivera (Camilo), Pregrado, Uniandes, Galaxias
+Rodriguez-Camargo, Pregrado, UNAL, Agujeros Negros
+Romero (Nicolas), Pregrado, UniAndes, Galaxias
+Ubaque (Yobay), Maestria, Uniandes, Estrellas
+Umaña (Diego), Pregrado, UniAndes,0
+Santana-Gomez,Maestría, OAN, Galaxias
+Velez R (Fernando),Maestría, OAN, Cosmología
+Vargas B (Miller),Maestría, OAN, Cosmología
