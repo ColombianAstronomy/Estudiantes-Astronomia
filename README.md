@@ -1,4 +1,4 @@
 Estudiantes-Astronomia
 ======================
 
-Base de datos de estudiantes colombianos en Astronomía
+Base de datos de estudiantes de Astronomía en Bogotá.
